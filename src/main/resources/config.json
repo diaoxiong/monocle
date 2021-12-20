@@ -1,0 +1,13 @@
+{
+  "workspace": "/Users/lizifeng/Code/java/monocle-workspace",
+  "msgSenderName": "lark",
+  "textPrefix": "以下分支与目标分支存在差异，请火速前往合并[刀][刀][刀]\n",
+  "textPostfix": "这些分支将会在12小时后再校验\n",
+  "repositoryConfigs": [
+    {
+      "repositoryName": "monocle",
+      "sourceBranch": "main",
+      "destBranchPrefix": "feature/"
+    }
+  ]
+}
